@@ -78,7 +78,7 @@ Pandas, NumPy, Matplotlib, Seaborn
 
 Clone this repository:
 
-git clone https://github.com/your-username/eda-banking-analysis.git
+git clone https://github.com/siductive/Banking-Risk-Analysis.git
 cd eda-banking-analysis
 
 Install dependencies:

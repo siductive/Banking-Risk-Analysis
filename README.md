@@ -74,21 +74,6 @@ Jupyter Notebook (optional)
 
 Pandas, NumPy, Matplotlib, Seaborn
 
-# Running the Analysis
-
-Clone this repository:
-
-git clone https://github.com/siductive/Banking-Risk-Analysis.git
-cd eda-banking-analysis
-
-Install dependencies:
-
-pip install pandas numpy matplotlib seaborn
-
-Open and run the Jupyter Notebook:
-
-jupyter notebook
-
 # Visualizations
 
 The project includes correlation heatmaps, bar plots, and distribution charts to visualize the relationships between banking metrics and customer behaviors.
